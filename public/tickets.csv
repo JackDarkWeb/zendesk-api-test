@@ -1,0 +1,11 @@
+id,subject,description,status,priority,group_id
+1,"Exemple de ticket : Voici le ticket","Bonjour Jack,
+
+C’est votre premier ticket. Super ! Toute demande client envoyée à vos canaux d’assistance (e-mail, chat, messagerie vocale, formulaire Web et tweet) devient un ticket Support comme celui-ci. Répondez à ce ticket en tapant un message au-dessus et en cliquant sur Envoyer. Vous pouvez aussi voir comment un e-mail devient un ticket en envoyant un e-mail à votre nouveau compte, support@test246.zendesk.com. Votre ticket s’affichera dans les vues de ticket.
+",open,normal,360005452937
+2,"J’ai besoin d’aide","Bonjour,
+J’ai rencontré un gros problème et j’ai vraiment besoin de votre aide.
+Merci d’avance,
+Client
+",open,normal,360005452937
+3,Treatment,"Test treatment",open,urgent,360005452937

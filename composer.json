@@ -1,0 +1,17 @@
+{
+    "name": "user/zendesk-api-test",
+    "authors": [
+        {
+            "name": "JackDarkWeb",
+            "email": "jacknouatin1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "7.0"
+    }
+}
